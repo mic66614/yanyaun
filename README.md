@@ -4,7 +4,7 @@
 
 软件截图
 ![微信图片_20250421001607](https://github.com/user-attachments/assets/c157dd8a-36a8-46ac-99b8-00f179597469)
-![微信图片_20250421001607](https://github.com/user-attachments/assets/a878a758-f0c4-40d8-961f-943ff541c7eb)
+![微信图片_20250421001611](https://github.com/user-attachments/assets/af96bfd1-3bad-45cb-abe1-cf3a6e16f7c4)
 ![微信图片_20250421001603](https://github.com/user-attachments/assets/c492b53b-fc53-472b-9182-5c287b853c05)
 ![微信图片_20250421001600](https://github.com/user-attachments/assets/54fb2b03-5395-498e-bcf4-29f2e0916f10)
 ![微信图片_20250421001556](https://github.com/user-attachments/assets/40b68418-b079-4add-ba78-d1e6244e59cb)
