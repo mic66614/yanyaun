@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customize your theme here. -->
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+        <item name="itemTextAppearanceActive">@style/TextAppearance.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorPrimary">#cb9974</item>
+        <!-- 修改选中项的背景颜色 -->
+        <item name="colorSurface">#cb9974</item>
+    </style>
+
+    <style name="TextAppearance.App.BottomNavigationView" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">#cb9974</item>
+    </style>
+</resources>
